@@ -1,0 +1,224 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.titleheader{
+    background:grey;
+    height:30px;
+    padding-top: 5px;
+    color: white;
+}
+.left{
+    float:left;
+    margin-left:5px;
+}
+.right{
+    float:right;
+    margin-right:5px;
+}
+.header{
+    height:100px;
+}
+.row{
+    width:100%;
+    padding-top:14px;
+}
+.hpart1{
+    width:8%;
+    float:left;
+    margin-left: 15px;
+}
+.hpart1 img{
+    width:80px;
+    height:80px;
+}
+
+.login{
+    font-size:18px;
+    font-family:Georgia;
+    text-decoration:none;
+    color:black;
+}
+
+.hpart2{
+    width:50%;
+    float:left;
+    font-family:impact;
+    color:red;
+    font-size:50px;
+    padding-top: 9px;
+}
+.hpart3{
+    width:8%;
+    float:right;
+    background-color:green;
+    text-align:center;
+    margin-top:18px;
+    padding-top:10px;
+    margin-right:80px;
+    padding: 8px;
+    border-radius: 20px;
+}
+.Login{
+    text-decoration:none;
+    color:white;
+}
+.hpart3:hover{
+    background-color:red;
+    color: white;
+}
+.menubar{
+    background:grey;
+    height:30px;
+}
+.menubar ul{
+    width:100%;
+    list-style-type:none;
+}
+.menubar ul li{
+   float:left;
+}
+
+
+.menubar ul li a{
+    padding:3px;
+    padding-left:50px;
+    padding-right:50px;
+    font-family:"arial";
+    font-size:20px;
+    display:block;
+    text-decoration:none;  
+    font-weight:bold;
+    color:black;
+}
+.menubar ul li:hover{
+    color:red;
+    background-color:rgba(245, 245, 16, 0.821);
+    border-radius:5px; 
+}
+.body{
+    height:850px;
+    font-size:18px;
+}
+.sectitle{
+    color:red;
+    text-align:center;
+    font-size:35px;
+}
+.courses{
+    width:80%;
+    margin:0 auto auto;
+}
+.coursediv{
+    width:20%;
+    box-shadow:3px 5px red;
+    border:1px solid lightgrey;
+    border-radius:6px;
+    float:left; 
+    margin:3% 2%;
+    height:180px;
+    text-align:center;
+}
+.coursediv img{
+    width:100%;
+    border-radius:6px;
+    height:60%;
+}
+
+.coursediv a{
+    text-decoration:none;
+    color:black;
+    padding:20px;
+    font-family:calibri;
+
+}
+
+marquee img{
+    height:400px;
+    width:250px;
+    padding:30px 15px;
+}
+.Aboutus{
+    text-align:center;
+    margin:0 auto auto;
+    font-size:20px;
+}
+
+.footer{
+    height:400px;
+    background:black;
+    color:white;
+}
+.part20{
+    width:25%;
+    float:left;
+    margin-left:15px;
+    font-size:18px;
+    
+}
+.links{
+    color:yellow;
+    font-size:30px;
+}
+
+.part20 a{
+    text-decoration:none;
+    color:white;
+}
+.part40{
+    color:white;
+    float:left;
+}
+.part40 input{
+    width:380px;
+}
+.part40 button{
+    color:white;
+    background-color:grey;
+    width:388px;
+    border-radius:4px;
+}
+
+.login1{
+    margin:0 auto auto;
+    width:20%;
+    text-align:center;
+}
+
+.loginform{
+    background-color:rgba(171, 159, 159, 0.7);
+    border-radius:15px;
+}
+
+#submit{
+    background-color:rgb(7, 3, 3);
+    text-align:center;
+    color:white;
+}
+.enroll{
+    color:white;
+    background-color:green;
+    width:110px;
+    height:30px;
+    border-radius:5px;
+    padding:3px;
+    margin-top:8px;
+    border:1px solid white;
+}
+.enroll:hover{
+    background-color:brown;
+    color:rgb(255, 255, 255);
+}
+.note{
+    text-align:center;
+    color:red;
+    font-family:calibri;
+    background-color:yellow;
+    border:1px red dashed;
+    font-size:25px;
+}
+
+h2{
+    color:green;
+}
